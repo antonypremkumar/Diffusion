@@ -11,6 +11,7 @@
 				"${file}",
 				"-lstdc++",
 				"-lm",
+				"-lm",
 				"-o",
 				"${fileDirname}/${fileBasenameNoExtension}"
 			],
